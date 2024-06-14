@@ -1,7 +1,8 @@
-```markdown
 # Ubiquiti Device Configuration and Troubleshooting Guide using Terminal
 
-This guide provides step-by-step instructions for configuring and troubleshooting Ubiquiti devices using the terminal. It covers SSH access, various configuration changes such as frequency, WAN/LAN IPs, device name, and basic troubleshooting steps.
+```markdown
+This guide provides step-by-step instructions for configuring and troubleshooting Ubiquiti devices using the terminal.
+It covers SSH access, various configuration changes such as frequency, WAN/LAN IPs, device name, and basic troubleshooting steps.
 
 ## Prerequisites
 
