@@ -86,11 +86,11 @@ To change the WAN and LAN IPs:
 2. **Modify the IP settings**:
    - Example to change WAN IP:
      ```sh
-     wan.1.ipaddr=192.168.0.100
+     netconf.3.ip=192.168.0.100
      ```
    - Example to change LAN IP:
      ```sh
-     lan.1.ipaddr=192.168.1.1
+     netconf.2.ip=192.168.1.1
      ```
 
 3. **Save and Exit**:
@@ -108,7 +108,7 @@ To change the device name:
 2. **Modify the device name setting**:
    - Example to change the device name:
      ```sh
-     system.device.hostname=MyUbiquitiDevice
+      resolv.host.1.name=MyUbiquitiDevice
      ```
 
 3. **Save and Exit**:

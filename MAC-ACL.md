@@ -68,6 +68,9 @@ This guide provides instructions on how to configure MAC Access Control Lists (A
 1. **Navigate to the MAC ACL configuration file**:
    ```sh
    vi /tmp/system.cfg
+
+   wireless.1.mac_acl.status=enabled                                               
+   wireless.1.mac_acl.policy=deny  
    ```
 
 2. **Add MAC addresses** to the deny list. Each MAC address should be added on a new line.
