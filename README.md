@@ -1,6 +1,5 @@
 # Ubiquiti Device Configuration and Troubleshooting Guide using Terminal
 
-```markdown
 This guide provides step-by-step instructions for configuring and troubleshooting Ubiquiti devices using the terminal.
 It covers SSH access, various configuration changes such as frequency, WAN/LAN IPs, device name, and basic troubleshooting steps.
 
@@ -11,7 +10,6 @@ It covers SSH access, various configuration changes such as frequency, WAN/LAN I
 - Admin credentials (default username: `ubnt`, default password: `Ubnt12345.`)
 
 ## SSH Access
-
 ### Logging into the Device
 
 1. **Open your terminal (Linux/Mac) or Command Prompt/PowerShell (Windows)**.
