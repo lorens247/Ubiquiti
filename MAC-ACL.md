@@ -4,6 +4,13 @@
 
 This guide provides instructions on how to configure MAC Access Control Lists (ACL) through both web interface and SSH to deny specific workstations from connecting to a device.
 
+## Navigation Menu
+
+- [Home](README.md)
+- [Configuration and Troubleshooting](Configuration-Troubleshooting.md)
+- [MAC Access Control Lists (ACL)](MAC-ACL.md)
+
+
 ## Prerequisites
 
 - Access to the device's web interface or SSH.

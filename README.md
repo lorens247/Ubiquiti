@@ -2,6 +2,13 @@
 
 <img src="images/Ubiquiti_Logo.png" alt="Ubiquiti Logo" width="300"/>
 
+## Navigation Menu
+
+- [Home](README.md)
+- [Configuration and Troubleshooting](Configuration-Troubleshooting.md)
+- [MAC Access Control Lists (ACL)](MAC-ACL.md)
+
+
 ## Configuration
 
 ### SSH Access
